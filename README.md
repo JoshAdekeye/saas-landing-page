@@ -71,7 +71,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/julien-muke/saas-landing-page.git
+git clone https://github.com/JoshAdekeye/saas-landing-page.git
 cd saas-landing-page
 ```
 
@@ -974,9 +974,3 @@ export default Marker;
 
 </details>
 
-## <a name="links">🔗 Assets</a>
-
-Assets used in the project can be
-found [here](https://drive.google.com/file/d/1u-l3p3qCnrwmWq5-bG7OkfCXFPYM9t5z/view?usp=sharing)
-
-#
